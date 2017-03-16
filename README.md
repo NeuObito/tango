@@ -1,1 +1,1 @@
-# 参照tano网站学习的django项目代码
+# 参照tango网站学习的django项目代码
